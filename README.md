@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del prepcourse de Henry
+Este repositorio es del modulo dos del prepcourse de Henry
